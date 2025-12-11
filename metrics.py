@@ -2,3 +2,6 @@ print("Compute my metric")
 print("Good commit_1")
 print("Bad commit_1")
 print("Good commit_2")
+
+
+'ya tam cheta naputal, a ispravlat len'
